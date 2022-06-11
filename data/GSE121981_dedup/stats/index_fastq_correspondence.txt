@@ -1,0 +1,9 @@
+GSM3452616	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE121981/GSM3452616/SRR8136743_1.fastq.gz
+GSM3452610	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE121981/GSM3452610/SRR8136737_1.fastq.gz
+GSM3452614	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE121981/GSM3452614/SRR8136741_1.fastq.gz
+GSM3452613	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE121981/GSM3452613/SRR8136740_1.fastq.gz
+GSM3452618	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE121981/GSM3452618/SRR8136745_1.fastq.gz
+GSM3452615	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE121981/GSM3452615/SRR8136742_1.fastq.gz
+GSM3452611	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE121981/GSM3452611/SRR8136738_1.fastq.gz
+GSM3452617	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE121981/GSM3452617/SRR8136744_1.fastq.gz
+GSM3452612	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE121981/GSM3452612/SRR8136739_1.fastq.gz

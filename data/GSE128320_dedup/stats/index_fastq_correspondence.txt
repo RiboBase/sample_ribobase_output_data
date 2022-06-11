@@ -1,0 +1,2 @@
+GSM3671371	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE128320/GSM3671371/SRR8730291_1.fastq.gz
+GSM3671370	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE128320/GSM3671370/SRR8730290_1.fastq.gz

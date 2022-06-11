@@ -1,0 +1,4 @@
+GSM4140501	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/test/GSE139399/GSM4140501/SRR10347716_1.fastq.gz
+GSM4140502	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/test/GSE139399/GSM4140502/SRR10347717_1.fastq.gz
+GSM4140499	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/test/GSE139399/GSM4140499/SRR10347714_1.fastq.gz
+GSM4140500	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/test/GSE139399/GSM4140500/SRR10347715_1.fastq.gz

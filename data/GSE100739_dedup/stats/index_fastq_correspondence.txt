@@ -1,0 +1,2 @@
+GSM2692350	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE100739/GSM2692350/SRR5799562_1.fastq.gz
+GSM2692351	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE100739/GSM2692351/SRR5799563_1.fastq.gz

@@ -1,0 +1,4 @@
+GSM4550618	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE150439/GSM4550618/SRR11780981_1.fastq.gz
+GSM4550617	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE150439/GSM4550617/SRR11780980_1.fastq.gz
+GSM4550615	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE150439/GSM4550615/SRR11780978_1.fastq.gz
+GSM4550616	1	/scratch/users/mjgeng/process-multiple-ribo/input/fastq/GSE150439/GSM4550616/SRR11780979_1.fastq.gz
